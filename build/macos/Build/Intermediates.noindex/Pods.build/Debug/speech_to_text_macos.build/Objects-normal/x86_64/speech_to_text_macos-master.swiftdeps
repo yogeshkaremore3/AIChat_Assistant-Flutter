@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e24fae11574488ab81942a2896bc739c3767420ab7f28b62ea2b036e51267e50"
+build_start_time: [1695322646, 102765000]
+build_end_time: [1695322659, 387372000]
+inputs:
+  "/Users/yogeshkaremore/.pub-cache/hosted/pub.dev/speech_to_text_macos-1.0.2/macos/Classes/SpeechToTextMacosPlugin.swift": [1694789528, 274148303]

@@ -1,0 +1,12 @@
+com.example.imagegallerysaver.image_gallery_saver-jetified-window-1.0.0-beta04-0 /Users/yogeshkaremore/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.imagegallerysaver.image_gallery_saver-jetified-annotation-experimental-1.1.0-1 /Users/yogeshkaremore/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.imagegallerysaver.image_gallery_saver-core-1.6.0-2 /Users/yogeshkaremore/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.imagegallerysaver.image_gallery_saver-jetified-window-java-1.0.0-beta04-3 /Users/yogeshkaremore/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.imagegallerysaver.image_gallery_saver-main-4 /Users/yogeshkaremore/.pub-cache/hosted/pub.dev/image_gallery_saver-2.0.3/android/src/main/res
+com.example.imagegallerysaver.image_gallery_saver-release-5 /Users/yogeshkaremore/.pub-cache/hosted/pub.dev/image_gallery_saver-2.0.3/android/src/release/res
+com.example.imagegallerysaver.image_gallery_saver-pngs-6 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/generated/res/pngs/release
+com.example.imagegallerysaver.image_gallery_saver-resValues-7 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/generated/res/resValues/release
+com.example.imagegallerysaver.image_gallery_saver-rs-8 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/generated/res/rs/release
+com.example.imagegallerysaver.image_gallery_saver-mergeReleaseResources-9 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.imagegallerysaver.image_gallery_saver-mergeReleaseResources-10 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.imagegallerysaver.image_gallery_saver-merged_res-11 /Users/yogeshkaremore/Documents/Fluter/Projects/ai_assistant/build/image_gallery_saver/intermediates/merged_res/release
