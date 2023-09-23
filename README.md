@@ -15,7 +15,7 @@ AiChat app made in flutter with clean architecture, to interact with ChatGPT mod
      <td align="center" width=110>
      <img height=60 src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c60754dc-ae4f-4c50-89d2-d1d49a5f0a55"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
+     <img height=60 src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c28ac9aa-2722-4ee9-b516-6d4acd89a5f3"/></td>
     </tr>
     <tr>
     <td align="center" width=110>
