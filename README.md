@@ -12,15 +12,15 @@ AiChat app made in flutter with clean architecture, to interact with ChatGPT mod
 ## Screenshots
  <table>
     <tr>
-     <td align="center" width=110>
-     <img height=60 src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c60754dc-ae4f-4c50-89d2-d1d49a5f0a55"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c28ac9aa-2722-4ee9-b516-6d4acd89a5f3"/></td>
+     <td align="center" >
+     <img height=600  src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c60754dc-ae4f-4c50-89d2-d1d49a5f0a55"/></td>
+     <td align="center" >
+     <img height=600  src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/c28ac9aa-2722-4ee9-b516-6d4acd89a5f3"/></td>
     </tr>
     <tr>
-    <td align="center" width=110>
-     <img height=60 src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/2ab7410f-4eaf-48de-8166-57de2a79e887"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td> 
+    <td align="center" >
+     <img height=600  src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/2ab7410f-4eaf-48de-8166-57de2a79e887"/></td>
+     <td align="center" >
+     <img height=600  src="https://github.com/yogeshkaremore3/AIChat_Assistant-Flutter/assets/107833885/3b3e54c4-b913-4689-a76f-9b0c2ad54d84"/></td> 
     </tr>
   </table>
