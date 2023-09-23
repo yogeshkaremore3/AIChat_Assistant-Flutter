@@ -1,6 +1,6 @@
 # Open AI ChatGPT and Dall-E
 
-AiChat app made in flutter with clean architecture, to interact with ChatGPT model and Dall-E image generation model. It generates image or text accoding to user's prompt at one place. 
+AiChat app made in flutter with clean architecture, to interact with ChatGPT model and Dall-E image generation model. It generates image or text according to user's prompt at one place. 
 
 ### To do
 1. Speech to Text ✔
